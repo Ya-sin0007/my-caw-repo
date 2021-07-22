@@ -1,0 +1,82 @@
+/*..............head section*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo-witdth{
+    width: 35px;
+    
+}
+
+.nav-bg{
+    background-color: rgb(241, 244, 247);
+    
+}
+.bannar-bg{
+    background-color:#fceae8;
+    border-radius: 10px;
+    
+}
+.texx-just{
+    text-align: justify;
+}
+/*end of head section*/
+
+
+
+/*.............................categoris*/
+
+.bg-prima{
+    background-image: linear-gradient(to bottom, #b1a60b 0%, #c0ff13 100%);
+    border-radius: 3px;
+    color: white;
+
+}
+.bg-primaa{
+    background-image: linear-gradient(to bottom, #eb6d9f 0%, #bb0f51 100%);
+    border-radius: 5px;
+    color: white;
+}
+.hover-effect:hover{
+    color: rgb(17, 105, 105);
+}
+.hover-effect{
+    transition: 3s;
+}
+}
+.hover-effect-bg{
+    background-color: rgb(241, 244, 247);;
+    
+}
+/*.........................................end of categoris*/
+
+/*.......................................mycaw*/
+.mycow-shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.shadow-card{
+    box-shadow: 10px 10px 20px gray;
+    text-align: ;
+}
+.button-bg{
+    background-color: #ff1772;
+    border: 0;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 10px 10px 40px rgb(143, 56, 56);
+}
+/*.......................................................mycaw*/
+
+
+.bye-bye{
+    background-color: #fceae8;;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 10px 10px 15px rgb(209, 199, 199);
+}
